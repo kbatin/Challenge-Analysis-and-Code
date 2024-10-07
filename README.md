@@ -27,7 +27,7 @@ In this project, we analyze the environmental impacts of Hurricane Maria using S
 
 
 
-Check the Coastal Resilience Project [here](https://github.com/kbatin/Challenge-Analysis-and-Code/blob/main/Coastal_Resiliensce_T1-7.ipynb)
+Check the Coastal Resilience Project [here](https://github.com/kbatin/Challenge-Analysis-and-Code/blob/main/Coastal_Resilience_T1-7.ipynb)
 
 
 <sub>This is a group project.</sub>
